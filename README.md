@@ -58,6 +58,6 @@ Estou sempre aberto a discussões sobre Forense Digital, Inteligência de Ameaç
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Link para seu Perfil do LinkedIn] |
-| **E-mail** | [Seu Endereço de E-mail Profissional] |
-| **Blog/Outro** | [Link opcional para seu blog ou outro site] |
+| **LinkedIn** | [www.linkedin.com/in/genasci] |
+| **E-mail** | [personalteech@gmail.com] |
+| **Blog/Outro** | [https://personaltechads.blogspot.com/] |
