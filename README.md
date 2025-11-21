@@ -58,7 +58,7 @@ Estou sempre aberto a discussões sobre Forense Digital, Inteligência de Ameaç
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | https://.linkedin.com/in/genasci |
+| **LinkedIn** | https://linkedin.com/in/genasci |
 | **E-mail** | personalteech@gmail.com |
 | **Blog/Outro** | https://personaltechads.blogspot.com/ |
 | **Instagram** | @personalteech |
