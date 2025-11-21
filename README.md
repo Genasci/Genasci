@@ -46,11 +46,11 @@ Abaixo estão as principais ferramentas e sistemas com os quais atuo, essenciais
 
 Aqui você encontrará uma coleção de meus estudos de caso e projetos simulados, demonstrando a aplicação prática das minhas habilidades em cenários reais. Cada repositório detalha a metodologia, as ferramentas utilizadas e as conclusões técnicas.
 
-[Em Construção] [Projeto 1:] – Análise acelerada de logs usando classificação por Machine Learning.
+Projeto 1: – Análise.
 
-[Em Construção] [Projeto 2:] – Relatório completo de rastreamento de uma infraestrutura de C2 (Command and Control) fictícia.
+Projeto 2: – Relatório fictícia.
 
-[Em Construção] [Projeto 3:] – Mapeamento de Táticas, Técnicas e Procedimentos (TTPs) de um grupo de ameaça com regras de detecção.
+Projeto 3: – Mapeamento de Táticas, Técnicas e Procedimentos (TTPs).
 
 ## 📧 Conecte-se Comigo
 
